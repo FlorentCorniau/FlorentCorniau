@@ -59,7 +59,9 @@ Après 12 ans d'expériences dans divers secteurs industriels, travaillant à l'
 
 ## 🌱 Apprentissage en prévision
   <p align="left">
-    <img src="https://img.shields.io/badge/TypeScript -353a45?logo=TypeScript " alt="TypeScript " title="TypeScript " height="25">
+    <img src="https://img.shields.io/badge/Tailwind CSS-353a45?logo=Tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" height="25">
+    &nbsp; 
+    <img src="https://img.shields.io/badge/TypeScript-353a45?logo=TypeScript " alt="TypeScript " title="TypeScript " height="25">
     &nbsp;
     <img src="https://img.shields.io/badge/React-353a45?logo=React" alt="React" title="React" height="25">
     &nbsp;
