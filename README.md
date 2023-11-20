@@ -52,6 +52,8 @@ Après 12 ans d'expériences dans divers secteurs industriels, travaillant à l'
     &nbsp;
     <img src="https://img.shields.io/badge/Linux-353a45?logo=Linux" alt="Linux" title="Linux" height="25">
     &nbsp;
+    <img src="https://img.shields.io/badge/Laragon-353a45?logo=Laragon" alt="Laragon" title="Laragon" height="25">
+    &nbsp;
   </p>
   </br>
 
