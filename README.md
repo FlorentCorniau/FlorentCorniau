@@ -69,6 +69,8 @@ Après 12 ans d'expériences dans divers secteurs industriels, travaillant à l'
     &nbsp;
     <img src="https://img.shields.io/badge/Mongodb-353a45?logo=Mongodb" alt="Mongodb" title="Mongodb" height="25">
     &nbsp;
+  </p>
+    <p align="left">
     <img src="https://img.shields.io/badge/Node.JS-353a45?logo=Node.JS" alt="NodeJS" title="NodeJS" height="25">
     &nbsp;
     <img src="https://img.shields.io/badge/Redis-353a45?logo=Redis" alt="Redis" title="Redis" height="25">
