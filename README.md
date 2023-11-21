@@ -9,7 +9,7 @@ Je m'appelle Florent Corniau et je suis Développeur Web Full Stack habitant à 
 Naturellement curieux, attiré par les nouveaux challenges et toujours en quête de progression, je suis à la `recherche d'un stage et d'une alternance de Concepteur Développeur d'Applications à partir de Janvier 2024`.
 *([Programme | Durée | Rythme](https://hub.oclock.io/alternance-cda-pro))*.
 
-Après 12 ans d'expériences dans divers secteurs industriels, travaillant à l'amélioration continue des lignes de fabrications puis en tant que Chef de Projets, je suis actuellement en reconversion professionnelle en formation de Développeur Web chez O’Clock. Les diverses expériences pluridisciplinaires exercées durant mon parcours opérationnel et de manager m'ont apporté de solides compétences techniques et transverses que je mutualisent désormais au domaine du développement web et de la technologie.
+Après 12 ans d'expériences dans divers secteurs industriels, travaillant à l'amélioration continue des lignes de fabrications puis en tant que Chef de Projets, je suis actuellement en reconversion professionnelle en formation de Développeur Web chez O’Clock. Les diverses expériences pluridisciplinaires exercées durant mon parcours opérationnel et de manager m'ont apporté de solides compétences techniques et transverses que je mutualisent désormais au domaine du développement web.
 
 ## 💾 Technologies | Outils
 ### Développement Web
