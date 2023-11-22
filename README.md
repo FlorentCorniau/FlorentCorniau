@@ -40,6 +40,8 @@ Après 12 ans d'expériences dans divers secteurs industriels, travaillant à l'
     &nbsp;
     <img src="https://img.shields.io/badge/Adminer-353a45?logo=adminer&logoColor=black" alt="Adminer" title="Adminer" height="25">
     &nbsp;
+    <img src="https://img.shields.io/badge/Insomnia-353a45?logo=Insomnia&logoColor=8C2EE5" alt="Insomnia" title="Insomnia" height="25">
+    &nbsp;
     <img src="https://img.shields.io/badge/Markdown-353a45?logo=Markdown" alt="Markdown" title="Markdown" height="25">
     &nbsp;
   </p>
